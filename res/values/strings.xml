@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MEDTIME</string>
+    <string name="hello_world">WellCome to Medtime! You can add medicine using AddMed button or you can update your medicine with UpdateMed button:)</string>
+    <string name="action_settings">Settings</string>
+    <string name="addMed">ADDMED</string>
+    <string name="updateMed">UPDATEMED</string>
+    <string name="title_activity_medicine_adding">MedicineAdding</string>
+    <string name="nameMed">Name</string>
+    <string name="dosage">Dosage</string>
+    <string name="time">Time</string>
+	<string name="add">ADD</string>
+	<string name="del">DELETE</string>
+</resources>
